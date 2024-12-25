@@ -16,7 +16,7 @@ main:
     image: https://img.yliu.me/teaser/hdr-gs.png
 
   - title: "Great Divergence and Great Convergence: A Theory of Power Dynamics and Social Evolution"
-    authors: Zhaotian Luo, Shuyi Yu
+    authors: Zhaotian Luo and Shuyi Yu
     pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
     code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://dblp.org/rec/journals/corr/abs-2407-09271.html?view=bibtex
