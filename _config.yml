@@ -25,7 +25,7 @@ linkedin: https://www.linkedin.com/in/liuyaoyao/
 twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: assets/img/avatar.jpg
+avatar: "{{ site.baseurl }}/assets/images/avatar.jpg"
 baseurl: "./"
 
 # The following files will be removed from the generated website.
