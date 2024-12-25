@@ -9,4 +9,7 @@ permalink: /teaching/
 <h2 style="margin: 60px 0px -15px;">Teaching</h2>
 <br>
 
-- Spring 2025: [Concepts of Machine Learning](https://courses.illinois.edu/schedule/2025/spring/IS/327) (IS327)
+- Winter 2025: Game Theory II (Prof. Monika Nalepa)
+- Spring 2024: International Political Economy (Prof. Robert Gulotty)
+- Autumn 2023: Political Economy I: Formal Models of Politics (Prof. Scott Gehlbach)
+- Autumn 2022: Game Theory I (Prof. Monika Nalepa)
