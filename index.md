@@ -4,16 +4,25 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 80px 0px 10px;"></h2>
+<h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/). I am also affiliated with the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/).
+I am currently a PhD candidate in the Political Science Department at the University of Chicago. My committee members are Scott Gehlbach, Wioletta Dzuida, James Robinson, and Joel Mokyr. My research focuses on using formal models to explore political economy questions related to Chinese and European history. I am currently working on a dissertation project that examines the political economy of the divergence between China and Europe in the premodern era.
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+## Research Interest
 
-Previously, I completed my PhD in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my BS in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins](https://ccvl.jhu.edu/), [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), and [National University of Singapore](https://www.comp.nus.edu.sg/). My biography is [here](./biography/).
+- Political Economy 
+- Historical Political Economy
+- Formal Models
+- China and Europe
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email. You may see details [here](./openings/).</strong>
+## Education
+- Ph.D. in Political Science, 2021 - 2026, University of Chicago
+- M.A. in Social Sciences, 2019 - 2021, University of Chicago
+- M.Sc. in Computer Science, 2017 - 2019, New York University
 
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/contact.md %}
+## News
+- [SEP. 2024], Presentation at APSA, Philadelphia, PA.
+- [APR. 2024], Presentation at MPSA, Chicago, IL.
+- [FEB. 2024], Presentation at Econ History Lunch, Northwestern, IL.
+- [FEB. 2024], Presentation at Political Economy Lunch, UChicago, IL.
+- [APR. 2023], Presentation at MPSA, Chicago, IL.
