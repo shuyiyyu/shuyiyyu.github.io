@@ -8,22 +8,22 @@ main:
     page: https://imagenet3d.github.io/
     image: https://img.yliu.me/teaser/imagenet3d.png
 
-  - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
-    authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
+  - title: "Bureaucratization as a Bumpy Journey: The Rise and Fall of the Imperial Chinese State"
+    authors: Shuyi Yu
     pdf: https://www.cs.jhu.edu/~alanlab/Pubs24/cai2024hdr-gs.pdf
     bibtex: https://dblp.org/rec/journals/corr/abs-2405-15125.html?view=bibtex
     code: https://github.com/caiyuanhao1998/HDR-GS
     image: https://img.yliu.me/teaser/hdr-gs.png
 
-  - title: "iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning"
-    authors: Tom Fischer, <strong>Yaoyao Liu</strong>, Artur Jesslen, Noor Ahmed, Prakhar Kaushik, Angtian Wang, Alan Yuille, Adam Kortylewski, Eddy Ilg
+  - title: "Great Divergence and Great Convergence: A Theory of Power Dynamics and Social Evolution"
+    authors: Zhaotian Luo, Shuyi Yu
     pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
     code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://dblp.org/rec/journals/corr/abs-2407-09271.html?view=bibtex
     image: https://img.yliu.me/teaser/iNeMo.png
     
-  - title: Generating Images with 3D Annotations Using Diffusion Models
-    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, Xiaoding Yuan, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+  - title: "Corrupt meritocracy: A model of bureaucratic politics"
+    authors: Zhaotian Luo and Shuyi Yu
     pdf: https://openreview.net/pdf?id=XlkN11Xj6J
     code: https://github.com/wufeim/DST3D
     page: https://ccvl.jhu.edu/3D-DST/
