@@ -22,7 +22,7 @@ main:
     bibtex: https://dblp.org/rec/journals/corr/abs-2407-09271.html?view=bibtex
     image: https://img.yliu.me/teaser/iNeMo.png
     
-  - title: "Corrupt meritocracy: A model of bureaucratic politics"
+  - title: "Corrupt Meritocracy: A Model of Bureaucratic Politics"
     authors: Zhaotian Luo and Shuyi Yu
     pdf: https://openreview.net/pdf?id=XlkN11Xj6J
     code: https://github.com/wufeim/DST3D
