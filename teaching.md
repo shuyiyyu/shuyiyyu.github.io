@@ -7,6 +7,7 @@ permalink: /teaching/
 <h1 id="teaching"></h1>
 
 <h2 style="margin: 60px 0px -15px;">Teaching</h2>
+<br>
 
 - Winter 2025: Game Theory II (Prof. Monika Nalepa)
 - Spring 2024: International Political Economy (Prof. Robert Gulotty)
