@@ -13,7 +13,7 @@ I am currently a PhD candidate in the Political Science Department at the Univer
 - Political Economy 
 - Historical Political Economy
 - Formal Models
-- Comparative China
+- China and Europe
 
 ## Education
 - Ph.D. in Political Science, 2021 - 2026, University of Chicago
