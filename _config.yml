@@ -11,7 +11,7 @@ keywords: shuyi yu, yu shuyi, shuyiyu, yushuyi
 canonical: https://shuyiyyu.github.io/
 
 # The option is used to enable the Illinois template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
