@@ -9,6 +9,9 @@ email: yushuyi (at) uchicago.edu
 # Search Engine Optimization (SEO)
 keywords: shuyi yu, yu shuyi, shuyiyu, yushuyi
 
+# The option is used to enable the Illinois template.
+enable_hopkins_logo: true
+
 # Links
 #link_type: icon #text/icon
 #google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
