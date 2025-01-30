@@ -21,6 +21,8 @@ I am currently a PhD candidate in the Political Science Department at the Univer
 - M.Sc. in Computer Science, 2017 - 2019, New York University
 
 ## News
+- [May. 2024], Presentation at Econ History Lunch, Northwestern, IL.
+- [Feb. 2024], Presentation at olitical Economy Lunch, UChicago, IL.
 - [SEP. 2024], Presentation at APSA, Philadelphia, PA.
 - [APR. 2024], Presentation at MPSA, Chicago, IL.
 - [FEB. 2024], Presentation at Econ History Lunch, Northwestern, IL.
