@@ -1,6 +1,6 @@
 main:
 
-  - title: "The Curse of the Mandate of Heaven: A Model of Power Dynamics"
+  - title: "The Curse of the Mandate of Heaven: A Model of Power Centralization"
     authors: Shuyi Yu
     pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
     bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
@@ -8,7 +8,7 @@ main:
     page: https://imagenet3d.github.io/
     image: https://img.yliu.me/teaser/imagenet3d.png
 
-  - title: "Bureaucratization as a Bumpy Journey: The Fall of the Imperial Chinese State"
+  - title: "Bureaucratization as a Bumpy Journey: The Rise and Fall of the Imperial Chinese State"
     authors: Shuyi Yu
     pdf: https://www.cs.jhu.edu/~alanlab/Pubs24/cai2024hdr-gs.pdf
     bibtex: https://dblp.org/rec/journals/corr/abs-2405-15125.html?view=bibtex
