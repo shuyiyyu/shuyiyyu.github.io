@@ -26,7 +26,7 @@ main:
     authors: Zanhui Liu, Zhaotian Luo, Yucheng Qiu, Shuyi Yu, Hongding Zhu
     
   - title: "Corrupt Meritocracy: A Model of Bureaucratic Politics"
-    authors: Zhaotian Luo and Shuyi Yu
+    authors: Shuyi Yu
     pdf: https://openreview.net/pdf?id=XlkN11Xj6J
     code: https://github.com/wufeim/DST3D
     page: https://ccvl.jhu.edu/3D-DST/
