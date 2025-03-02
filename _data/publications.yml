@@ -21,9 +21,6 @@ main:
     code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://dblp.org/rec/journals/corr/abs-2407-09271.html?view=bibtex
     image: https://img.yliu.me/teaser/iNeMo.png
-
-  - title: "Norms and Dynamics of Power Alternation"
-    authors: Zanhui Liu, Zhaotian Luo, Yucheng Qiu, Shuyi Yu, Hongding Zhu
     
   - title: "Corrupt Meritocracy: A Model of Bureaucratic Politics"
     authors: Shuyi Yu
