@@ -18,7 +18,6 @@ I am currently a PhD candidate in the Political Science Department at the Univer
 ## Education
 - Ph.D. in Political Science, 2021 - 2026, University of Chicago
 - M.A. in Social Sciences, 2019 - 2021, University of Chicago
-- M.Sc. in Computer Science, 2017 - 2019, New York University
 
 ## News
 - [2025.02], Presentation at Econ History Lunch, Northwestern, IL. 
