@@ -20,6 +20,7 @@ I am currently a PhD candidate in the Political Science Department at the Univer
 - M.A. in Social Sciences, 2019 - 2021, University of Chicago
 
 ## News
+- [2025.04], Presentation at Formal Theory Conference, Washington University in St. Louis, MO.
 - [2025.02], Presentation at Econ History Lunch, Northwestern, IL. 
 - [2025.02], Presentation at Political Economy Lunch, UChicago, IL.
 - [2024.09], Presentation at APSA, Philadelphia, PA.
