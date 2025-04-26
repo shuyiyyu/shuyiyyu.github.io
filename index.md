@@ -22,10 +22,11 @@ I am currently a 4th-year PhD candidate in the Political Science Department at t
 
 ## News
 - [2025.04], Presentation at Formal Theory Conference, Washington University in St. Louis, MO.
-- [2025.02], Presentation at Econ History Lunch, Northwestern, IL. 
-- [2025.02], Presentation at Political Economy Lunch, UChicago, IL.
+- [2025.02], Presentation at Econ History Lunch, Northwestern University, IL. 
+- [2025.02], Presentation at Political Economy Lunch, University of Chicago, IL.
+- [2024.06], Presentation at SIOE, Chicago, IL.
 - [2024.09], Presentation at APSA, Philadelphia, PA.
 - [2024.04], Presentation at MPSA, Chicago, IL.
-- [2024.02], Presentation at Econ History Lunch, Northwestern, IL.
-- [2024.02], Presentation at Political Economy Lunch, UChicago, IL.
+- [2024.02], Presentation at Econ History Lunch, Northwestern University, IL.
+- [2024.02], Presentation at Political Economy Lunch, University of Chicago, IL.
 - [2023.04], Presentation at MPSA, Chicago, IL.
