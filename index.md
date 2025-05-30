@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a 4th-year PhD candidate in the Political Science Department at the University of Chicago. My committee members are Scott Gehlbach (chair), Wioletta Dzuida, Joel Mokyr, and James Robinson (alphabetically). My research focuses on using formal models to explore political economy questions related to Chinese and European history. I am currently working on a dissertation project that examines the political economy of the divergence between China and Europe over the millennia.
+I am currently a 4th-year PhD candidate in the Political Science Department at the University of Chicago. My committee members are Scott Gehlbach (chair), Wioletta Dzuida, Joel Mokyr, Kenneth Pomeranz and James Robinson (alphabetically). My research focuses on using formal models to explore political economy questions related to Chinese and European history. I am currently working on a dissertation project that examines the political economy of the divergence between China and Europe over the millennia.
 
 ## Research Interest
 
