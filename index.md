@@ -18,7 +18,7 @@ I am currently a 5th-year PhD candidate in the Political Science Department at t
 ## Education
 - Ph.D. in Political Science, 2021 - 2026, University of Chicago
 - M.A. in Social Sciences, 2019 - 2021, University of Chicago
-- M.Sc. in Computer Science, 2017-2019, New York University
+- M.Sc. in Computer Science, 2017-2019, New York University (GPA: 4.0)
 
 ## News
 - [2025.09], Presentation at APSA, Vancouver, Canada.
