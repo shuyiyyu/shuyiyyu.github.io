@@ -21,10 +21,6 @@ I am currently a 5th-year PhD candidate in the Political Science Department at t
 - M.Sc. in Computer Science, 2017-2019, New York University (GPA: 4.0)
 
 ## News
-- [2025.09], Presentation at APSA, Vancouver, Canada.
-- [2025.08], Presentation at EITM, Ann Arbor, MI.
-- [2025.06], Presentation at LSE Hayek Conference, London, UK.
-- [2025.06], Presentation at CEIBS, Shanghai, China. 
 - [2025.04], Presentation at Formal Theory Conference, Washington University in St. Louis, MO.
 - [2025.02], Presentation at Econ History Lunch, Northwestern University, IL. 
 - [2025.02], Presentation at Political Economy Lunch, University of Chicago, IL.
