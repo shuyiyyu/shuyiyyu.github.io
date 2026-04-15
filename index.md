@@ -21,6 +21,7 @@ I am currently a 5th-year PhD candidate in the Political Science Department at t
 - M.Sc. in Computer Science, 2017-2019, New York University (GPA: 4.0)
 
 ## News
+- [2026.09], Presentation at APSA, Boston, MA.
 - [2026.06], Presentation at UB-Yale HPE Workshop, Barcelona, Spain.
 - [2026.05], Presentation at Asian HPE Conference, Ann Arbor, MI.
 - [2026.04], Presentation at MPSA HPE Mini-conference, Chicago, IL. 
