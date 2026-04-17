@@ -26,13 +26,9 @@ I am currently a 5th-year PhD candidate in the Political Science Department at t
 - [2026.05], Presentation at Asian HPE Conference, Ann Arbor, MI.
 - [2026.04], Presentation at MPSA HPE Mini-conference, Chicago, IL. 
 - [2026.03], Presentation at Virtual Workshop in HPE (online).
+- [2025.06], Presentation at LSE Hayek Conference, London, UK.
 - [2025.09], Presentation at APSA, Vancouver, Canada.
 - [2025.08], Presentation at EITM, Ann Arbor, MI.
-- [2025.06], Presentation at LSE Hayek Conference, London, UK.
-- [2025.06], Presentation at CEIBS, Shanghai, China. 
-- [2025.09], Presentation at APSA, Vancouver, Canada.
-- [2025.08], Presentation at EITM, Ann Arbor, MI.
-- [2025.06], Presentation at LSE Hayek Conference, London, UK.
 - [2025.06], Presentation at CEIBS, Shanghai, China. 
 - [2025.04], Presentation at Formal Theory Conference, Washington University in St. Louis, MO.
 - [2025.02], Presentation at Econ History Lunch, Northwestern University, IL. 
