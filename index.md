@@ -44,16 +44,16 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 
 ## Organizer
 - **[2026.10]** Institutions in HPE Conference, UChicago, IL.
-  - With Scott Gehlbach, Monika Nalepa, and Zhaotian Luo
-  
-- [2026.09], EITM in HPE panel at APSA, Boston, MA.
-  (with Monika Nalepa)
-  
-- [2026.06], UChicago-Beijing Political Economy of Governance Conference, Beijing, China.
-  (with Zhaotian Luo)
-  
-- [2026.04], MPSA HPE Mini-conference, Chicago, IL.
-  (with Adee Weller, Daniel Lowery, Daniel Baquero-Mendez)
+  - With Tom Ginsburg, Scott Gehlbach, Monika Nalepa, and Zhaotian Luo
+ 
+- **[2026.09]** EITM in HPE panel at APSA, Boston, MA.
+  - With Monika Nalepa
 
-- [2026.04], EITM in HPE panel at MPSA, Chicago, IL.
-  (with Monika Nalepa)
+- **[2026.06]** UChicago-Beijing Political Economy of Governance Conference, Beijing, China.
+  - With Zhaotian Luo
+
+- **[2026.04]** MPSA HPE Mini-conference, Chicago, IL.
+  - With Adee Weller, Daniel Lowery, Daniel Baquero-Mendez
+ 
+- **[2026.04]** EITM in HPE panel at MPSA, Chicago, IL.
+  - With Monika Nalepa
