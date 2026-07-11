@@ -26,7 +26,8 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 - [2026.09], EITM in HPE panel at APSA, Boston, MA.
 - [2026.06], UB-Yale HPE Workshop, Barcelona, Spain.
 - [2026.05], Asian HPE Conference, Ann Arbor, MI.
-- [2026.04], MPSA HPE Mini-conference, Chicago, IL. 
+- [2026.04], MPSA HPE Mini-conference, Chicago, IL.
+- [2026.04], EITM in HPE panel at MPSA, Chicago, IL.
 - [2026.03], Virtual Workshop in HPE (online).
 - [2025.06], LSE Hayek Conference, London, UK.
 - [2025.09], China Mini-conference at APSA, Vancouver, Canada.
