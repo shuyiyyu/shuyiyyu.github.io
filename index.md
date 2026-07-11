@@ -16,7 +16,7 @@ I am currently a 5th-year PhD candidate in the Political Science Department at t
 - China and Europe
 
 ## Education
-- Ph.D. in Political Science, 2021 - 2026, University of Chicago
+- Ph.D. in Political Science, 2021 - present, University of Chicago
 - M.A. in Social Sciences, 2019 - 2021, University of Chicago
 
 ## News
