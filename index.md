@@ -43,7 +43,7 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 - [2023.04], MPSA, Chicago, IL.
 
 ## Organizer
-- [2026.10], Institutions in HPE Conference, UChicago, IL.
+- [2026.10], Institutions in HPE Conference, UChicago, IL.\\
   (with Scott Gehlbach, Monika Nalepa, Zhaotian Luo)
   
 - [2026.09], EITM in HPE panel at APSA, Boston, MA.
