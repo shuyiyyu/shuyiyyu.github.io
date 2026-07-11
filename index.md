@@ -49,8 +49,8 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 - **[2026.09]** EITM in HPE panel at APSA, Boston, MA.
   - With Monika Nalepa
 
-- **[2026.06]** UChicago-Beijing Political Economy of Governance Conference, Beijing, China.
-  - With Zhaotian Luo
+- **[2026.06]** UChicago-Beijing HPE Conference, Beijing, China.
+  - With Scott Gehlbach, Zhaotian Luo
 
 - **[2026.04]** MPSA HPE Mini-conference, Chicago, IL.
   - With Adee Weller, Daniel Lowery, Daniel Baquero-Mendez
