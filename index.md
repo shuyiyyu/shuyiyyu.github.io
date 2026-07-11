@@ -43,5 +43,5 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 - [2023.04], Presentation at MPSA, Chicago, IL.
 
 ## Organizing Team
-- [2026.10], Presentation at Institutions in HPE Conference, UChicago, IL. 
-- [2026.04], Presentation at MPSA HPE Mini-conference, Chicago, IL. 
+- [2026.10], Institutions in HPE Conference, UChicago, IL. 
+- [2026.04], MPSA HPE Mini-conference, Chicago, IL. 
