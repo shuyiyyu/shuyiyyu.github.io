@@ -22,27 +22,28 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 
 ## Presentations
 
-- [2026.10], Presentation at Institutions in HPE Conference, UChicago, IL. 
-- [2026.09], Presentation at APSA, Boston, MA.
-- [2026.06], Presentation at UB-Yale HPE Workshop, Barcelona, Spain.
-- [2026.05], Presentation at Asian HPE Conference, Ann Arbor, MI.
-- [2026.04], Presentation at MPSA HPE Mini-conference, Chicago, IL. 
-- [2026.03], Presentation at Virtual Workshop in HPE (online).
-- [2025.06], Presentation at LSE Hayek Conference, London, UK.
-- [2025.09], Presentation at APSA, Vancouver, Canada.
-- [2025.08], Presentation at EITM, Ann Arbor, MI.
-- [2025.06], Presentation at CEIBS, Shanghai, China. 
-- [2025.04], Presentation at Formal Theory Conference, Washington University in St. Louis, MO.
-- [2025.02], Presentation at Econ History Lunch, Northwestern University, IL. 
-- [2025.02], Presentation at Political Economy Lunch, University of Chicago, IL.
-- [2024.06], Presentation at SIOE, Chicago, IL.
-- [2024.09], Presentation at APSA, Philadelphia, PA.
-- [2024.04], Presentation at MPSA, Chicago, IL.
-- [2024.02], Presentation at Econ History Lunch, Northwestern University, IL.
-- [2024.02], Presentation at Political Economy Lunch, UChicago, IL.
-- [2023.04], Presentation at MPSA, Chicago, IL.
+- [2026.10], Institutions in HPE Conference, UChicago, IL. 
+- [2026.09], EITM in HPE panel at APSA, Boston, MA.
+- [2026.06], UB-Yale HPE Workshop, Barcelona, Spain.
+- [2026.05], Asian HPE Conference, Ann Arbor, MI.
+- [2026.04], MPSA HPE Mini-conference, Chicago, IL. 
+- [2026.03], Virtual Workshop in HPE (online).
+- [2025.06], LSE Hayek Conference, London, UK.
+- [2025.09], China Mini-conference at APSA, Vancouver, Canada.
+- [2025.08], EITM, Ann Arbor, MI.
+- [2025.06], CEIBS, Shanghai, China. 
+- [2025.04], Formal Theory Conference, Washington University in St. Louis, MO.
+- [2025.02], Econ History Lunch, Northwestern University, IL. 
+- [2025.02], Political Economy Lunch, University of Chicago, IL.
+- [2024.06], SIOE, Chicago, IL.
+- [2024.09], APSA, Philadelphia, PA.
+- [2024.04], MPSA, Chicago, IL.
+- [2024.02], Econ History Lunch, Northwestern University, IL.
+- [2024.02], Political Economy Lunch, UChicago, IL.
+- [2023.04], MPSA, Chicago, IL.
 
 ## Organizer
-- [2026.10], Institutions in HPE Conference, UChicago, IL.
-- [2026.09], EITM in HPE panel at APSA, Boston, MA.
-- [2026.04], MPSA HPE Mini-conference, Chicago, IL. 
+- [2026.10], Institutions in HPE Conference, UChicago, IL. (with Scott Gehlbach, Monika Nalepa, Zhaotian Luo)
+- [2026.09], EITM in HPE panel at APSA, Boston, MA. (with Monika Nalepa)
+- [2026.06], UChicago-Beijing Political Economy of Governance Conference, Beijing, China. (with Zhaotian Luo)
+- [2026.04], MPSA HPE Mini-conference, Chicago, IL. (with Adee Weller, Daniel Lowery, Daniel Baquero-Mendez)
