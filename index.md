@@ -16,10 +16,13 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 - China and Europe
 
 ## Education
+
 - Ph.D. in Political Science, 2021 - present, University of Chicago
 - M.A. in Social Sciences, 2019 - 2021, University of Chicago
 
-## News
+## Presentations
+
+- [2026.10], Presentation at Institutions in HPE Conference, UChicago, IL. 
 - [2026.09], Presentation at APSA, Boston, MA.
 - [2026.06], Presentation at UB-Yale HPE Workshop, Barcelona, Spain.
 - [2026.05], Presentation at Asian HPE Conference, Ann Arbor, MI.
@@ -36,5 +39,9 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 - [2024.09], Presentation at APSA, Philadelphia, PA.
 - [2024.04], Presentation at MPSA, Chicago, IL.
 - [2024.02], Presentation at Econ History Lunch, Northwestern University, IL.
-- [2024.02], Presentation at Political Economy Lunch, University of Chicago, IL.
+- [2024.02], Presentation at Political Economy Lunch, UChicago, IL.
 - [2023.04], Presentation at MPSA, Chicago, IL.
+
+## Organizing Team
+- [2026.10], Presentation at Institutions in HPE Conference, UChicago, IL. 
+- [2026.04], Presentation at MPSA HPE Mini-conference, Chicago, IL. 
