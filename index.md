@@ -31,7 +31,7 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 - [2025.06], LSE Hayek Conference, London, UK.
 - [2025.09], APSA Annual Conference, Vancouver, Canada.
 - [2025.08], EITM Summer Institute, Ann Arbor, MI.
-- [2025.06], CEIBS, Shanghai, China. 
+- [2025.06], Faculty Research Workshop, CEIBS, Shanghai, China.
 - [2025.04], Formal Theory Conference, Washington University in St. Louis, MO.
 - [2025.02], Econ History Lunch, Northwestern University, IL. 
 - [2025.02], Political Economy Lunch, University of Chicago, IL.
