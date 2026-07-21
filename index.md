@@ -27,7 +27,7 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 - [2026.06], UB-Yale HPE Workshop, Barcelona, Spain.
 - [2026.05], Asian Political History Conference, UMich Ann Arbor, MI.
 - [2026.04], MPSA Annual Conference, Chicago, IL.
-- [2026.03], Virtual Workshop in HPE (online).
+- [2026.03], Virtual Workshop in HPE, online.
 - [2025.06], LSE Hayek Conference, London, UK.
 - [2025.09], APSA Annual Conference, Vancouver, Canada.
 - [2025.08], EITM, Ann Arbor, MI.
