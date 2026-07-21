@@ -35,7 +35,7 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 - [2025.04], Formal Theory Conference, Washington University in St. Louis, MO.
 - [2025.02], Econ History Lunch, Northwestern University, IL. 
 - [2025.02], Political Economy Lunch, University of Chicago, IL.
-- [2024.06], SIOE, Chicago, IL.
+- [2024.06], SIOE Annual Conference, Chicago, IL.
 - [2024.09], APSA Annual Conference, Philadelphia, PA.
 - [2024.04], MPSA, Chicago, IL.
 - [2024.02], Econ History Lunch, Northwestern University, IL.
