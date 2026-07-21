@@ -24,7 +24,7 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 
 - [2026.10], Institutions in HPE Conference, UChicago, IL. 
 - [2026.09], APSA Annual Conference, Boston, MA.
-- [2026.06], UB-Yale HPE Workshop, Barcelona, Spain.
+- [2026.06], Yale-UB HPE Workshop, Barcelona, Spain.
 - [2026.05], Asian Political History Conference, UMich Ann Arbor, MI.
 - [2026.04], MPSA Annual Conference, Chicago, IL.
 - [2026.03], Virtual Workshop in HPE, online.
