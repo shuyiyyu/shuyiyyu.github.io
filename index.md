@@ -44,7 +44,7 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 
 ## Awards
 
-- Best APSA Paper Award (2026)
+- **Best APSA Paper Award** (2026)
   <div style="margin-left: 1.5em;">
   For <em>"A Relational Theory of Power Alternation"</em> (with Zanhui Liu, Zhaotian Luo, and Yucheng Qiu), presented at the 2025 APSA Annual Meeting.
   </div>
