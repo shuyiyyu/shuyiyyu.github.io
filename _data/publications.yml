@@ -19,10 +19,5 @@ main:
     
   - title: "Corrupt Meritocracy: A Model of Bureaucratic Politics"
     authors: Shuyi Yu
-    code: https://github.com/wufeim/DST3D
-    page: https://ccvl.jhu.edu/3D-DST/
-    bibtex: https://dblp.org/rec/conf/iclr/MaLWWY0X0LDQK0Y24.html?view=bibtex
-    image: https://img.yliu.me/teaser/dst.png
-    notes: Spotlight
 
   
