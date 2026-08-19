@@ -10,10 +10,10 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 
 ## Research Interest
 
-- Political Economy 
-- Historical Political Economy
-- Formal Models
+- Formal Theory
+- Comparative Politics
 - China and Europe
+- Historical Political Economy
 
 ## Education
 
