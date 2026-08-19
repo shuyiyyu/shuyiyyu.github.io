@@ -2,7 +2,7 @@
 
 {% for section in site.data.publications.main %}
 
-<h3>{{ section.title }}</h3>
+<h3><u>{{ section.title }}</u></h3>
 
 <ol class="bibliography">
 
@@ -35,4 +35,3 @@
 {% endfor %}
 
 </div>
-
