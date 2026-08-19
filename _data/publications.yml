@@ -1,6 +1,6 @@
 main:
 
-  - title: "Bureaucratization as a Bumpy Journey: The Rise and Fall of the Imperial Chinese State" (Job Market Paper)
+  - title: "Bureaucratization as a Bumpy Journey: The Rise and Fall of the Imperial Chinese State"
     authors: Shuyi Yu
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6650979
 
@@ -13,9 +13,6 @@ main:
     
   - title: "Great Divergence and Great Convergence: A Theory of Power Dynamics and Social Evolution"
     authors: Shuyi Yu
-    code: https://github.com/Fischer-Tom/iNeMo
-    bibtex: https://dblp.org/rec/journals/corr/abs-2407-09271.html?view=bibtex
-    image: https://img.yliu.me/teaser/iNeMo.png
     
   - title: "Corrupt Meritocracy: A Model of Bureaucratic Politics"
     authors: Shuyi Yu
