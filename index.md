@@ -51,4 +51,4 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 
 ## CV
 
-[Download CV](/Shuyi_Yu_CV.pdf)
+[Download CV](/cv.pdf)
