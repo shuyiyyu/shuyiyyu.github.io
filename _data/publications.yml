@@ -1,20 +1,27 @@
-main:
+great_divergence:
+  title: "The Political Economy of the Great Divergence"
+  papers:
+    - title: "Bureaucratization as a Bumpy Journey: The Rise and Fall of the Imperial Chinese State"
+      authors: Shuyi Yu
+      note: "Job Market Paper"
+      pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6650979
 
-  - title: "Bureaucratization as a Bumpy Journey: The Rise and Fall of the Imperial Chinese State"
-    authors: Shuyi Yu
-    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6650979
+    - title: "The Curse of the Mandate of Heaven: A Model of Power Centralization"
+      authors: Shuyi Yu
 
-  - title: "A Relational Theory of Power Alternation"
-    authors: Zhaotian Luo, Zanhui Liu, Yucheng Qiu, Shuyi Yu
-    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192250
-    
-  - title: "The Curse of the Mandate of Heaven: A Model of Power Centralization"
-    authors: Shuyi Yu
-    
-  - title: "Great Divergence and Great Convergence: A Theory of Power Dynamics and Social Evolution"
-    authors: Shuyi Yu
-    
-  - title: "Corrupt Meritocracy: A Model of Bureaucratic Politics"
-    authors: Shuyi Yu
+    - title: "Great Divergence and Great Convergence: A Theory of Power Dynamics and Social Evolution"
+      authors: Shuyi Yu
 
+autonomous_state:
+  title: "The Political Economy of the Autonomous State"
+  papers:
+    - title: "A Relational Theory of Power Alternation"
+      authors: Zhaotian Luo, Zanhui Liu, Yucheng Qiu, Shuyi Yu
+      pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192250
+
+standalone:
+  title: "Standalone Projects"
+  papers:
+    - title: "Corrupt Meritocracy: A Model of Bureaucratic Politics"
+      authors: Shuyi Yu
   
