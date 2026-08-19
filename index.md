@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a 6th-year PhD candidate in the Political Science Department at the University of Chicago. My committee members are Scott Gehlbach (chair), Monika Nalepa, Wioletta Dzuida, James Robinson, Joel Mokyr, and Kenneth Pomeranz. My research focuses on using formal models to explore political economy questions related to Chinese and European history. I am currently working on a dissertation project that examines the political economy of the divergence between China and Europe over the millennia.
+I am currently a 6th-year PhD candidate in the Political Science Department at the University of Chicago. My committee members are Scott Gehlbach (chair), Monika Nalepa, Wioletta Dzuida, James Robinson, Joel Mokyr, and Kenneth Pomeranz. I am an applied game theorist specializing in comparative and historical political economy. My research aims to develop a unified theory of the historical evolution of China’s political economy. More broadly, I seek to extend this theory by comparing China with other major civilizations, particularly Europe, to explore the origins of their divergent trajectories.
 
 ## Research Interest
 
