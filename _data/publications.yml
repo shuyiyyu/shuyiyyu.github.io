@@ -1,16 +1,16 @@
 main:
 
+  - title: "Bureaucratization as a Bumpy Journey: The Rise and Fall of the Imperial Chinese State" (Job Market Paper)
+    authors: Shuyi Yu
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6650979
+
   - title: "A Relational Theory of Power Alternation"
     authors: Zhaotian Luo, Zanhui Liu, Yucheng Qiu, Shuyi Yu
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192250
     
   - title: "The Curse of the Mandate of Heaven: A Model of Power Centralization"
     authors: Shuyi Yu
-
-  - title: "Bureaucratization as a Bumpy Journey: The Rise and Fall of the Imperial Chinese State"
-    authors: Shuyi Yu
-    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6650979
-
+    
   - title: "Great Divergence and Great Convergence: A Theory of Power Dynamics and Social Evolution"
     authors: Shuyi Yu
     code: https://github.com/Fischer-Tom/iNeMo
