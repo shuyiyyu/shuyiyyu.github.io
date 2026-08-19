@@ -12,7 +12,7 @@ I am currently a 6th-year PhD candidate in the Political Science Department at t
 
 - Formal Theory
 - Comparative Politics
-- China and Europe
+- Chinese Politics
 - Historical Political Economy
 
 ## Education
