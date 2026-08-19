@@ -28,9 +28,7 @@ main:
 
 
   - title: "Standalone Projects"
-    abstract: >
-      Put the abstract or short description of these standalone projects here.
-
+  
     papers:
       - title: "Corrupt Meritocracy: A Model of Bureaucratic Politics"
         authors: Shuyi Yu
