@@ -1,6 +1,9 @@
 main:
 
-  - title: "Project I Dissertation: The Political Economy of the Great Divergence"
+  - title: "The Political Economy of the Great Divergence"
+    abstract: >
+      Put the abstract or short description of this research project here.
+
     papers:
       - title: "Bureaucratization as a Bumpy Journey: The Rise and Fall of the Imperial Chinese State"
         authors: Shuyi Yu
@@ -13,13 +16,21 @@ main:
       - title: "Great Divergence and Great Convergence: A Theory of Power Dynamics and Social Evolution"
         authors: Shuyi Yu
 
-  - title: "Project II: The Political Economy of the Autonomous State"
+
+  - title: "The Political Economy of the Autonomous State"
+    abstract: >
+      Put the abstract or short description of this research project here.
+
     papers:
       - title: "A Relational Theory of Power Alternation"
         authors: Zhaotian Luo, Zanhui Liu, Yucheng Qiu, Shuyi Yu
         pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192250
 
+
   - title: "Standalone Projects"
+    abstract: >
+      Put the abstract or short description of these standalone projects here.
+
     papers:
       - title: "Corrupt Meritocracy: A Model of Bureaucratic Politics"
         authors: Shuyi Yu
