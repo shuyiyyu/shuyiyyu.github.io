@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am a 6th-year PhD candidate in the Department of Political Science at the University of Chicago. My committee members are Scott Gehlbach (chair), Wioletta Dziuda, Joel Mokyr, Monika Nalepa, Kenneth Pomeranz, and James Robinson. My research develops a theoretical account of the historical evolution of China’s political economy and, more broadly, the divergent trajectories of political and economic development in China and Europe. I primarily use game-theoretic models, complemented by historical narratives and empirical evidence.
+I am a sixth-year PhD candidate in Political Science at the University of Chicago. My research lies in comparative and historical political economy, with a primary focus on China. I study the long-run evolution of China’s political economy, particularly how political commitment evolves with power dynamics and, in turn, shapes state capacity and economic development from the imperial period to the present. More broadly, I use this framework to examine the origins of divergent trajectories of political and economic development across societies. I primarily use game-theoretic models, complemented by historical narratives and empirical evidence. My dissertation committee includes Wioletta Dziuda, Scott Gehlbach (chair), Joel Mokyr, Monika Nalepa, Kenneth Pomeranz, and James Robinson.
 
 ## Research Interest
 
