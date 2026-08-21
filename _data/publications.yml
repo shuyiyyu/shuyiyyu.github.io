@@ -11,8 +11,17 @@ main:
         pdf:  "/assets/pdf/mandate.pdf"
         ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6650979
         abstract: >
-          This paper studies why political power became highly centralized
-          in imperial China. I develop a model in which...
+          Historians have long documented the rise and fall of the Imperial Chinese state. 
+          This paper introduces bureaucratization as a potential mechanism underlying these processes. 
+          I model the principal-agent problem inherent in state administration and identify two groups of agents available to the ruler: elites and bureaucrats. 
+          Bureaucrats deliver higher returns to the ruler than elites because they can be monitored more effectively. 
+          Socioeconomic and technological developments allow the ruler to monitor an increasing share of administrative tasks and reassign them from elites to bureaucrats. 
+          Nonetheless, as bureaucrats gradually assume administrative duties, state capacity follows an N-shaped trajectory. 
+          It first rises and then declines because expanding opportunities for bureaucratic delegation eventually weaken the credibility of the ruler’s relational contract with elites, 
+          inducing them to withdraw effort and reducing the ruler’s aggregate payoff. 
+          Historically, this decline aligns with the major downturn experienced by the late imperial Chinese state. 
+          The model also predicts a resurgence of the modern Chinese state as bureaucratization reaches a more complete form. 
+          I further discuss the potential applicability of the model to the historical development of European states. 
 
       - title: "The Curse of the Mandate of Heaven: A Model of Power Centralization"
         authors: Shuyi Yu
