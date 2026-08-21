@@ -10,9 +10,9 @@ I am a 6th-year PhD candidate in the Department of Political Science at the Univ
 
 ## Research Interest
 
-- Formal Theory
 - Comparative Politics
 - Chinese Politics
+- Formal Theory
 - Historical Political Economy
 
 ## Education
