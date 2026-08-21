@@ -4,6 +4,19 @@
 
 <h3><u>{{ section.title }}</u></h3>
 
+<!-- Project-level abstract -->
+{% if section.abstract %}
+<details style="margin-bottom: 18px;">
+  <summary style="cursor: pointer;">
+    Abstract
+  </summary>
+
+  <div style="margin-top: 8px; line-height: 1.5;">
+    {{ section.abstract }}
+  </div>
+</details>
+{% endif %}
+
 <ol class="bibliography">
 
 {% for link in section.papers %}
@@ -12,12 +25,16 @@
 
 <div class="pub-row">
 
-  <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+  <div class="col-sm-9"
+       style="position: relative; padding-right: 15px; padding-left: 20px;">
 
     <div class="title">
       {{ link.title }}
+
       {% if link.note %}
-      <span style="font-weight: normal;"> ({{ link.note }})</span>
+      <span style="font-weight: normal;">
+        ({{ link.note }})
+      </span>
       {% endif %}
     </div>
 
@@ -25,7 +42,7 @@
       {{ link.authors }}
     </div>
 
-    <!-- Abstract -->
+    <!-- Paper-level abstract -->
     {% if link.abstract %}
     <details style="margin-top: 8px; margin-bottom: 12px;">
       <summary style="cursor: pointer;">
@@ -40,17 +57,17 @@
 
   </div>
 
-
-  <!-- Links -->
-  <div class="links">
+  <!-- PDF + SSRN links on one horizontal line -->
+  <div class="links"
+       style="display: flex; flex-direction: row; gap: 6px; align-items: center; white-space: nowrap;">
 
     {% if link.pdf %}
     <a href="{{ link.pdf }}"
        class="btn btn-sm z-depth-0"
        role="button"
        target="_blank"
-       style="font-size:12px;">
-       PDF
+       style="font-size: 12px;">
+      PDF
     </a>
     {% endif %}
 
@@ -59,8 +76,8 @@
        class="btn btn-sm z-depth-0"
        role="button"
        target="_blank"
-       style="font-size:12px;">
-       SSRN
+       style="font-size: 12px;">
+      SSRN
     </a>
     {% endif %}
 
