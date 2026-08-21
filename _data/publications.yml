@@ -8,7 +8,11 @@ main:
       - title: "Bureaucratization as a Bumpy Journey: The Rise and Fall of the Imperial Chinese State"
         authors: Shuyi Yu
         note: "Job Market Paper"
-        pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6650979
+        pdf:  "/assets/pdf/mandate.pdf"
+        ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6650979
+        abstract: >
+          This paper studies why political power became highly centralized
+          in imperial China. I develop a model in which...
 
       - title: "The Curse of the Mandate of Heaven: A Model of Power Centralization"
         authors: Shuyi Yu
@@ -24,8 +28,11 @@ main:
     papers:
       - title: "A Relational Theory of Power Alternation"
         authors: Zhaotian Luo, Zanhui Liu, Yucheng Qiu, Shuyi Yu
-        pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192250
-
+        pdf: "/assets/pdf/alternation.pdf"
+        ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192250
+        abstract: >
+          This paper studies why political power became highly centralized
+          in imperial China. I develop a model in which...
 
   - title: "Standalone Projects"
   
