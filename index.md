@@ -17,8 +17,8 @@ I am a sixth-year PhD candidate in Political Science at the University of Chicag
 
 ## Education
 
-- Ph.D. in Political Science, 2021 - present, University of Chicago
-- M.A. in Social Sciences, 2019 - 2021, University of Chicago
+- PhD candiate in Political Science, 2021 - present, University of Chicago
+- MA in Social Sciences, 2019 - 2021, University of Chicago
 
 ## Presentations
 
