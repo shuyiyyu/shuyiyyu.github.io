@@ -51,4 +51,4 @@ I am a sixth-year PhD candidate in Political Science at the University of Chicag
 
 ## CV
 
-[Download CV](/cv.pdf)
+[Download CV](/assets/pdf/cv.pdf)
