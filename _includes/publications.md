@@ -25,15 +25,9 @@
 
   <div style="padding-right: 15px; padding-left: 20px;">
 
-    <!-- Paper title -->
-    <div class="title">
-      {{ link.title }}
-
-      {% if link.note %}
-      <span style="font-weight: normal;">
-        ({{ link.note }})
-      </span>
-      {% endif %}
+    <!-- Paper title + note always on the same line -->
+    <div class="title" style="white-space: nowrap;">
+      {{ link.title }}{% if link.note %}<span style="font-weight: normal;"> ({{ link.note }})</span>{% endif %}
     </div>
 
     <!-- Author + links on the same line -->
