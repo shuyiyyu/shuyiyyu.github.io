@@ -6,7 +6,7 @@
 
 <!-- Project-level abstract -->
 {% if section.abstract %}
-<details style="margin-bottom: 16px;">
+<details style="margin-bottom: 14px;">
   <summary style="cursor: pointer;">
     Project Overview
   </summary>
@@ -21,7 +21,7 @@
 
 {% for link in section.papers %}
 
-<li style="margin-bottom: 18px;">
+<li style="margin-bottom: 12px;">
 
   <div style="
       padding-right: 15px;
@@ -40,7 +40,7 @@
     <!-- Author -->
     <div class="author"
          style="
-           margin-bottom: 4px;
+           margin-bottom: 2px;
          ">
       {{ link.authors }}
     </div>
@@ -54,7 +54,7 @@
            gap: 6px;
            align-items: center;
            justify-content: flex-start;
-           margin-bottom: 6px;
+           margin-bottom: 3px;
          ">
 
       {% if link.pdf %}
@@ -82,13 +82,13 @@
 
     <!-- Paper-level abstract -->
     {% if link.abstract %}
-    <details style="margin-top: 4px; margin-bottom: 6px;">
+    <details style="margin-top: 2px; margin-bottom: 4px;">
 
       <summary style="cursor: pointer;">
         Abstract
       </summary>
 
-      <div style="margin-top: 8px; line-height: 1.5;">
+      <div style="margin-top: 6px; line-height: 1.5;">
         {{ link.abstract }}
       </div>
 
