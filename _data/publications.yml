@@ -40,8 +40,16 @@ main:
         pdf: "/assets/pdf/alternation.pdf"
         ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192250
         abstract: >
-          This paper studies why political power became highly centralized
-          in imperial China. I develop a model in which...
+          A long-standing thesis in political economy relates cooperation among rival elites to mechanisms for power alternation. 
+          What remains unclear is why ruling elites would voluntarily transfer power if they can instead sustain cooperation by granting political concessions. 
+          To resolve this puzzle, we study a setting without external enforcement in which two elite groups may cooperate repeatedly, 
+          and the party in power can both make concessions and transfer power. 
+          Incumbents cede power in equilibrium because power alternation disciplines concessions through continuation values under future incumbencies, 
+          rather than inefficient punishments such as breakdowns of cooperation. 
+          Efficient self-enforcing arrangements imply norms that maximize the stability of power, 
+          with alternation occurring only when necessary to sustain cooperation. 
+          Finally, as the cost of transferring power increases, alternation becomes more frequent and power stability deteriorates.
+
 
   - title: "Standalone Projects"
   
