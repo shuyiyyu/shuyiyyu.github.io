@@ -30,12 +30,13 @@ main:
         authors: Shuyi Yu
 
 
-  - title: "The Political Economy of the Autonomous State" (Under Review)
+  - title: "The Political Economy of the Autonomous State" 
     abstract: >
       This agenda asks how effective governance can be sustained within a centralized bureaucratic state, whose logic may differ from conventional institutional prescriptions for Western democracies.
       
     papers:
       - title: "A Relational Theory of Power Alternation" (Under Review)
+        note: "Under Review"
         authors: Zhaotian Luo, Zanhui Liu, Yucheng Qiu, Shuyi Yu
         pdf: "/assets/pdf/alternation.pdf"
         ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192250
